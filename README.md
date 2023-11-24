@@ -17,3 +17,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sendjin5&show_icons=true&theme=radical)
