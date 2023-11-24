@@ -2,7 +2,7 @@
 
 <h1>반갑습니다.</h1>
 
-![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml)
+<!-- ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml) -->
 
 
 
