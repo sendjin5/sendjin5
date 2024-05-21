@@ -1,6 +1,4 @@
-<strong>Hello Readme</strong>
-
-<h1>반갑습니다.</h1>
+<h1><Strong>반갑습니다.</Strong></h1>
 
 <!-- ![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml) -->
 
