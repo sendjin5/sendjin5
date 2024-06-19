@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendjin5&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sendjin5&show_icons=true&theme=shadow_blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sendjin5&show_icons=true&theme=shadow_blue) 
 
 </div>
 
