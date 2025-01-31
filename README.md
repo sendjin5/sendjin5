@@ -14,12 +14,11 @@
 </div>
 
 
-<style>
-       main {
-              background-color: red;
-       }
-
-</style>
+   <script>
+      let main = document.querySelector("main");
+      console.log(main);
+      main.style.backgroundColor = "red";
+    </script>
   
 
 <!-- <table>
