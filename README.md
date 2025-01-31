@@ -30,11 +30,11 @@
   <body>
     <main>메인 내용</main>
     
-    <script>
+    &lt;script&gt;
       let main = document.querySelector("main");
       console.log(main);
       main.style.backgroundColor = "red";
-    </script>
+    &lt;/script&gt;
   </body>
 </html>
 
