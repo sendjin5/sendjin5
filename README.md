@@ -9,15 +9,19 @@
 </div>
 <div
       style="
-        background-color: beige;
+        background-color: #5aaaaa;
         color: bisque;
         text-align: center;
         padding: 5px 10px;
       "
     >
-
-[sendjin5 main page ▶▶](https://sendjin5.github.io/)
-
-</div>
+      <a
+        href="https://sendjin5.github.io/"
+        target="_blank"
+        style="color: bisque; text-decoration: none; font-size: 24px"
+      >
+        sendjin5 main page ▶▶
+      </a>
+    </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=3aaaaa&reversal=false&textBg=false&fontSize=100&fontAlign=50&animation=fadeIn&rotate=-3&fontAlignY=55&strokeWidth=0&descSize=30&section=footer)
