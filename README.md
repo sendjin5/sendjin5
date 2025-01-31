@@ -28,7 +28,7 @@
     </style>
   </head>
   <body>
-    <main></main>
+    <main>메인 내용</main>
     
     <script>
       let main = document.querySelector("main");
