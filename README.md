@@ -12,32 +12,6 @@
      
 
 </div>
-<!DOCTYPE html>
-<html lang="ko">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <title>Github.Io</title>
-    <style>
-      main {
-        background-color: beige;
-        width: 100%;
-        height: 500px;
-      }
-    </style>
-  </head>
-  <body>
-    <main>메인 내용</main>
-    
-    &lt;script&gt;
-      let main = document.querySelector("main");
-      console.log(main);
-      main.style.backgroundColor = "red";
-    &lt;/script&gt;
-  </body>
-</html>
-
 
   
 
