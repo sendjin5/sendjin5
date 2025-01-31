@@ -135,5 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=3aaaaa&reversal=false&textBg=false&fontSize=100&fontAlign=50&animation=fadeIn&rotate=-3&fontAlignY=55&strokeWidth=0&descSize=30&section=footer)
