@@ -18,7 +18,7 @@
       <a
         href="https://sendjin5.github.io/"
         target="_blank"
-        style="color: bisque; text-decoration: none; font-size: 24px"
+        style="color: beige; text-decoration: none; font-size: 24px;"
       >
         sendjin5 main page ▶▶
       </a>
