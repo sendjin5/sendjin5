@@ -8,8 +8,7 @@
         style="color: beige; text-decoration: none; font-size: 24px;"
       >
       ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=main%20page%20▶▶&section=header&reversal=false&textBg=false&fontColor=black&fontSize=50&fontAlign=34)
-
-     </a>
+</a>
 <div style="text-align: center;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendjin5&layout=compact)
@@ -25,13 +24,6 @@
         padding: 5px 10px;
       "
     >
-      <a
-        href="https://sendjin5.github.io/"
-        target="_blank"
-        style="color: beige; text-decoration: none; font-size: 24px;"
-      >
-        sendjin5 main page ▶▶
-      </a>
-    </div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=3aaaaa&reversal=false&textBg=false&fontSize=100&fontAlign=50&animation=fadeIn&rotate=-3&fontAlignY=55&strokeWidth=0&descSize=30&section=footer)
