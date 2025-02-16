@@ -7,7 +7,8 @@
         target="_blank"
         style="color: beige; text-decoration: none; font-size: 24px;"
       >
-https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=main%20page%20▶▶&section=header&reversal=false&textBg=false&fontColor=black&fontSize=50&fontAlign=34
+      ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=main%20page%20▶▶&section=header&reversal=false&textBg=false&fontColor=black&fontSize=50&fontAlign=34)
+
      </a>
 <div style="text-align: center;">
 
