@@ -10,22 +10,3 @@
       ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Portfolio%20▶▶&section=header&reversal=false&textBg=false&fontColor=black&fontSize=50&fontAlign=34)
 </a>
 <div style="text-align: center;">
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendjin5&layout=compact)
-
-
-</div>
-<div
-      style="
-        background-color: #5aaaaa;
-        color: bisque;
-        text-align: center;
-        padding: 5px 10px;
-      "
-    >
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=3aaaaa&reversal=false&textBg=false&fontSize=100&fontAlign=50&animation=fadeIn&rotate=-3&fontAlignY=55&strokeWidth=0&descSize=30&section=footer)
-
-
-
